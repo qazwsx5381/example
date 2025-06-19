@@ -1,0 +1,5 @@
+#git 다운받기
+git pull https://github.com/qazwsx5381/example.github
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
