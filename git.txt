@@ -4,6 +4,7 @@ git pull https://github.com/qazwsx5381/example.github
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 
+#git 업로드
 git add .
 git status
 git commit -m "이름설정"
