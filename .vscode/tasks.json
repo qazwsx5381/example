@@ -63,7 +63,24 @@
             ],
             "group": "build",
             "detail": "compiler: C:\\MinGW\\bin\\gcc.exe"
-        }
+        },
+        {
+      "label": "build c file",
+      "type": "shell",
+      "command": "gcc",
+      "args": [
+        "-g",
+        "${file}",
+        "-o",
+        "${fileDirname}\\${fileBasenameNoExtension}.exe"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"],
+      "detail": "빌드 C 파일"
+    }
     ],
     "version": "2.0.0"
 }
