@@ -1,8 +1,8 @@
 #git 다운받기
-git pull https://github.com/qazwsx5381/example.github
+git pull https://github.com/qazwsx5381/example.git
 
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
+git config --global user.email "qazwsx5381@gmail.com"
+git config --global user.name "qazwsx5381"
 
 #git 초기 설정
 git add .
