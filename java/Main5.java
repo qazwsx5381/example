@@ -1,4 +1,4 @@
-public class Main5 {
+public class Main {
     static int[] MakeArray(){
    
     int[] tempArr = new int[4];
@@ -10,7 +10,7 @@ public class Main5 {
     return tempArr;
     }
     
-    public static void main5(String[] args){
+    public static void main(String[] args){
     
     int[] intArr;
     intArr = MakeArray();
