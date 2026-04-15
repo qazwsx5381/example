@@ -6,6 +6,13 @@
     "configurations": [
       {
         "type": "java",
+        "name": "FinalLogic",
+        "request": "launch",
+        "mainClass": "FinalLogic",
+        "projectName": "정보처리기사_9a44591e"
+      },
+      {
+        "type": "java",
         "name": "Main5",
         "request": "launch",
         "mainClass": "Main5",

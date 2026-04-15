@@ -2,10 +2,7 @@
     "sqldeveloper.sqlHistory.historyLimit": 500,
     "security.workspace.trust.untrustedFiles": "open",
     "sqldeveloper.telemetry.enabled": true,
-    "code-runner.executorMap": {
-
-
-        
+    "code-runner.executorMap": {        
         "javascript": "node",
         "java": "cd $dir && javac $fileName -encoding utf-8 && java $fileNameWithoutExt",
         "zig": "zig run",
