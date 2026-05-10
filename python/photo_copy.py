@@ -50,10 +50,10 @@ def copy_matching_jpgs(main_folder, jpg_source_folder):
 
 # === 여기에 네 폴더 경로를 입력해주세요! ===
 # 첫 번째 폴더: 여기 파일들의 이름과 똑같은 .jpg 파일을 찾아서 복사해올 곳
-main_folder_path = "/Users/ryuyechan/Desktop/사진/2025 가을수련회/작업용" 
+main_folder_path = "/Users/ryuyechan/Desktop/사진/2026 어울림 체육대회 작업용" 
 
 # 두 번째 폴더: .jpg 파일들이 모여있는 곳
-jpg_source_folder_path = "/Users/ryuyechan/Desktop/사진/2025 가을수련회/jpg" 
+jpg_source_folder_path = "/Users/ryuyechan/Library/CloudStorage/GoogleDrive-qazwsx5381@gmail.com/내 드라이브/어울림 체육대회/예찬/jpg" 
 
 # 스크립트를 실행해서 마법을 부려볼까?
 copy_matching_jpgs(main_folder_path, jpg_source_folder_path)
